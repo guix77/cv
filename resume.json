@@ -2,7 +2,7 @@
   "basics": {
     "name": "Guillaume Duveau",
     "label": "Web & blockchain developer",
-    "summary": "Since 17 years now, I'm a web developer. Last year I built a strong experience in developing decentralized and hybrid Apps, in the position of [Talao](https://ico.talao.io)'s lead developer.",
+    "summary": "After 17 years as a web developer, I recently acquired an extensive experience into blockchain development, as Talao's lead developer. I'm now looking for new challenges either in startups in a major role, or in well-established compagnies as a technical partner. I only work in remote from Toulouse (but can travel from time to time), and at max 4 days a week (I dedicate 1 day/week to personal projects). Thanks for your interest!",
     "website": "https://guillaumeduveau.com",
     "phone": "",
     "email": "",
@@ -16,19 +16,19 @@
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "guix77",
-        "url": "https://github.com/guix77"
-      },
-      {
         "network": "LinkedIn",
-        "username": "linkedin.com/in/guillaumeduveau/",
+        "username": "linkedin.com/in/guillaumeduveau",
         "url": "https://www.linkedin.com/in/guillaumeduveau/"
       },
       {
         "network": "Twitter",
         "username": "@GuillaumeDuveau",
         "url": "https://twitter.com/GuillaumeDuveau"
+      },
+      {
+        "network": "GitHub",
+        "username": "guix77",
+        "url": "https://github.com/guix77"
       },
       {
         "network": "Code",
@@ -110,7 +110,7 @@
   "skills": [
     {
       "name": "Blockchain development",
-      "level": "advanced",
+      "level": "expert",
       "keywords": [
         "Ethereum",
         "Solidity",
