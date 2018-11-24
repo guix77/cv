@@ -6,7 +6,7 @@
     "website": "https://guillaumeduveau.com",
     "phone": "",
     "email": "",
-    "picture": "https://raw.githubusercontent.com/guix77/cv/master/picture.jpg",
+    "picture": "../picture.jpg",
     "location": {
       "address": "",
       "postalCode": "",

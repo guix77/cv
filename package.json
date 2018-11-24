@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "jsonresume-theme-eloquent": "guix77/jsonresume-theme-eloquent#guix"
+    "jsonresume-theme-eloquent": "guix77/jsonresume-theme-eloquent#guix",
+    "jsonresume-theme-kendall": "^0.1.19",
+    "jsonresume-theme-paper": "^0.3.5"
   }
 }
