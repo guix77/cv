@@ -45,8 +45,8 @@
       "startDate": "2016-12",
       "summary": "",
       "highlights": [
-        "Blockchain: see experience in Talao",
-        "Drupal: Direct clients = [CNRS](https://www.cnrs.fr), [SQLi](http://www.sqli.com/), [Brocelia](https://www.brocelia.fr/), [Couleur-citron.com](https://www.couleur-citron.com/), [eMindHub](https://www.emindhub.com) / Final clients: [Pierre Fabre group](https://www.pierre-fabre.com) ([Klorane](https://www.klorane.com/), [Ducray](https://www.ducray.com)), various confidential major french compagnies. See also Telespazio experience."
+        "Direct clients: [CNRS](https://www.cnrs.fr), [SQLi](http://www.sqli.com/), [Brocelia](https://www.brocelia.fr/), [Couleur-citron.com](https://www.couleur-citron.com/), [Talao](https://ico.talao.io), [eMindHub](https://www.emindhub.com)",
+        "Indirect clients: [Pierre Fabre group](https://www.pierre-fabre.com) ([Klorane](https://www.klorane.com/), [Ducray](https://www.ducray.com)), various confidential major french compagnies."
       ]
     },
     {
@@ -68,9 +68,8 @@
       "position": "Drupal expert",
       "startDate": "2018-03",
       "endDate": "2018-11",
-      "summary": "With the [National Physical Laboratory](http://www.npl.co.uk/) (NPL), we developed a Quality assurance editing and review system for the [Climate data store](https://cds.climate.copernicus.eu/) (CDS) of the [European Centre for Medium-Range Weather Forecasts](https://www.ecmwf.int/) (ECMWF).",
       "highlights": [
-        "Drupal 8"
+        "Quality assurance editing and review system for the [Climate data store](https://cds.climate.copernicus.eu/) (CDS) of the [European Centre for Medium-Range Weather Forecasts](https://www.ecmwf.int/) (ECMWF)."
       ]
     },
     {
@@ -81,9 +80,8 @@
       "endDate": "2016-11",
       "summary": "From 2004 to 2016, I was web developer at the french national institute for Earth sciences and Astronomy (CNRS-INSU).",
       "highlights": [
-        "CNRS-INSU website",
-        "Drupal expert for CNRS on other projects like CNRSnews.fr",
-        "Web expert in numerous CNRS professional committees for recruitment and internal careers"
+        "I was also Drupal expert for CNRS on other projects like CNRSnews.fr",
+        "And web expert in numerous CNRS professional committees for recruitment and internal careers"
       ]
     }
   ],

@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Jean-Marc TANO",
+    "name": "Jean-Marc Tano",
     "label": "electricien d'équipements",
-    "summary": "",
+    "summary": "Actuellement en formation en électronique, je suis à l'écoute du marché. Merci pour votre intérêt!",
     "website": "",
     "phone": "06 26 19 60 17",
     "email": "tanojeanmarc336@gmail.com ",
@@ -13,9 +13,7 @@
       "city": "Toulouse",
       "countryCode": "FR",
       "region": "Occitanie"
-    },
-    "profiles": [
-    ]
+    }
   },
   "work": [
     {
@@ -40,7 +38,6 @@
   "education": [
     {
       "institution": "Côte d’Ivoire",
-      "gpa": "",
       "courses": [
         "Terminale Littéraire"
       ],
@@ -49,7 +46,6 @@
     },
     {
       "institution": "Côte d’Ivoire",
-      "gpa": "",
       "courses": [
         "Brevet des collèges (BEPC)"
       ],
@@ -91,22 +87,7 @@
       ]
     },
     {
-      "name": "Sens de l'organisation"
-    },
-    {
-      "name": "Réactivité"
-    },
-    {
-      "name": "Persévérance"
-    },
-    {
-      "name": "Autonomie"
-    },
-    {
-      "name": "Travail d'équipe"
-    },
-    {
-      "name": "Curiosité"
+      "name": "Sens de l'organisation, réactivité, persévérance, autonomie, travail d'équipe, curiosité"
     }
   ],
   "volunteer": [
