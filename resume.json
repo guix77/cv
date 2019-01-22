@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Guillaume Duveau",
-    "label": "Web & blockchain developer",
-    "summary": "After 17 years as a web developer, I recently acquired an extensive experience into blockchain development, as Talao's lead developer. I'm now looking for new challenges either in startups in a major role, or in well-established compagnies as a technical partner. I only work in remote from Toulouse (but can travel from time to time), and at max 4 days a week (I dedicate 1 day/week to personal projects). Thanks for your interest!",
+    "label": "Architect, expert and lead developer in Blockchain & Web projects",
+    "summary": "After 17 years as a web expert developer, those last years I acquired an extensive experience into blockchain development",
     "website": "https://guillaumeduveau.com",
-    "phone": "",
-    "email": "",
+    "phone": "+33 6 89 35 39 26",
+    "email": "guillaumeduveau@gmail.com",
     "picture": "../picture.jpg",
     "location": {
       "address": "",
@@ -41,7 +41,7 @@
     {
       "company": "GuillaumeDuveau",
       "website": "https://guillaumeduveau.com",
-      "position": "Blockchain projects developer & Drupal expert",
+      "position": "Architect, expert and lead developer in Blockchain & Web projects",
       "startDate": "2016-12",
       "summary": "",
       "highlights": [
@@ -52,12 +52,13 @@
     {
       "company": "Talao",
       "website": "https://ico.talao.io",
-      "position": "Lead developer",
+      "position": "Architect, expert and lead developer in Blockchain & Web projects",
       "startDate": "2017-11",
-      "endDate": "2018-12",
-      "summary": "My work at Talao involved technical architecture conception, technical lead of small teams (up to 3 developers), and dApps development with: Ethereum blockchain smartcontracts in Solidity, Truffle tests, connectivity with Web3 version 1 with Metamask, interfaces with React and Material UI. I also integrated other techs like Node, MySQL, and standards like like MIT's Blockcerts.org.",
+      "endDate": "2019-01",
+      "summary": "My work at Talao involved technical architecture conception, technical lead of small teams (up to 3 developers), and dApps (decentralized applications) development with: Ethereum blockchain smartcontracts in Solidity, Truffle tests, connectivity with Web3 version 1 with Metamask, interfaces with React and Material UI. I also integrated other techs like Node, MySQL, and standards like like MIT's Blockcerts.org.",
       "highlights": [
-        "Architecture conception, technical lead and developer of the upcoming Talao Certified Experience. It's a hybrid decentralized & centralized platform based on the interconnection of: Ethereum smart contracts, a Node.js/MySQL backend, 2 React interfaces, and a Python Blockcerts.org issuer.",
+        "Architecture conception, technical lead and main developer of the upcoming Talao Certified Experience. It's a hybrid decentralized & centralized platform based on the interconnection of: Ethereum smart contracts, a Node.js/MySQL backend, 2 React interfaces.",
+        "Design and development of Talao's smart contracts, built on Ethereum's standards for Identity and Claims management (ERC 725 / ERC 735)",
         "Took part of the Initial coin offering (ICO) and the Know your customer (KYC)",
         "First Ethereum technologies tests at Talao and development of an early DAO prototype"
       ]
@@ -67,7 +68,7 @@
       "website": "https://www.telespazio.com",
       "position": "Drupal expert",
       "startDate": "2018-03",
-      "endDate": "2018-11",
+      "endDate": "2018-12",
       "highlights": [
         "Quality assurance editing and review system for the [Climate data store](https://cds.climate.copernicus.eu/) (CDS) of the [European Centre for Medium-Range Weather Forecasts](https://www.ecmwf.int/) (ECMWF)."
       ]
@@ -112,6 +113,7 @@
       "keywords": [
         "Ethereum",
         "Solidity",
+        "ERC 725 / ERC 735",
         "Truffle",
         "Web3.js",
         "Ethers.js",
@@ -137,7 +139,10 @@
         "HTML 5",
         "CSS 3",
         "Sass",
-        "Material UI"
+        "Material UI",
+        "Webpack",
+        "RSA",
+        "AES"
       ]
     },
     {
